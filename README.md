@@ -15,4 +15,7 @@
 🔭 **If you have appropriate oppotunity for me, contact with me nicole571.wu@gmail.com.**
 
 
-[![Niki571's GitHub stats](https://github-readme-stats.vercel.app/api?username=niki571)](https://github.com/niki571/github-readme-stats)
+[![Niki571's GitHub stats](https://github-readme-stats.vercel.app/api?username=niki571&theme=tokyonight)](https://github.com/niki571/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niki571&layout=compact)](https://github.com/niki571/github-readme-stats)
