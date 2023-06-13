@@ -15,7 +15,4 @@
 🔭 **If you have appropriate oppotunity for me, feel free to contact me.**
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=niki571&theme=tokyonight" />
-
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niki571&layout=compact" />
