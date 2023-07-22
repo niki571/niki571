@@ -5,9 +5,9 @@
 
 ### Technologies
 
-🧃 **Flutter . ReactJs . Taro**
+🧃 **Vue . React **
 
-🧃 **NodeJs . NestJs . Typeorm**
+🧃 **Node . NestJs . Typeorm**
 
 
 🏡 **I’m currently working from home on my own project.**
