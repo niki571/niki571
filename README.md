@@ -5,7 +5,7 @@
 
 ### Technologies
 
-🧃 **Vue . React **
+🧃 **Vue . React**
 
 🧃 **Node . NestJs . Typeorm**
 
